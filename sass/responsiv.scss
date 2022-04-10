@@ -1,0 +1,57 @@
+@media (max-width: 767px){
+    header{
+        nav{
+            ul{
+               li{
+                   display: none;
+                   
+               }
+                
+                }
+            }
+        }
+        .novum-block{
+            padding: 48px 0 32px 0;
+            .advance-inner{
+                .advance-text{
+                    h1{
+                        font-size: 25px;
+                        line-height: 27px;
+                        margin-bottom: 14px;
+                        padding-bottom: 0;
+                    }
+                    p{
+                        padding-bottom: 0;
+                        font-size:14px;
+                        line-height: 24px;
+                    }
+                }
+                .button-block{
+                    .btn{
+                        width: 280px;
+                    }
+                    .our-btn{
+                        margin-bottom: 20px;
+                    }
+                }
+            }
+        }
+        .article-block{
+            width: 100%;
+        }
+    }
+
+
+
+
+@media(min-width:767px){
+    header{
+        nav{
+            ul{
+                .burger-menu{
+                    display: none;
+                }
+            }
+        }
+    }
+}

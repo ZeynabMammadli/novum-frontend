@@ -1,0 +1,29 @@
+header{
+    padding: 22px 0;
+    nav{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        ul{
+            display: flex;
+            li{
+                &:hover a{
+                    border-bottom: 2px dashed;
+                }
+               
+                margin-left: 52px;
+                a{
+                    &:hover{
+                        color:green;
+                    }
+                    font-size:16px;
+                    line-height: 18px;
+                    font-weight: 500;
+                    font-family: "ub-medium";
+                    color:#3B4A9E;
+                    transition: ease-out 0.5s;
+                }
+            }
+        }
+    }
+}
