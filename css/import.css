@@ -797,14 +797,14 @@ footer .footer-bottom .text p {
 .assist-block .contact-form form .form-inner select {
   border: none;
   border-bottom: 1px solid #3B4A9E;
-  padding: 17px 0;
+  padding: 18px 0;
 }
 .assist-block .contact-form input[type=submit] {
   background-color: #3B4A9E;
   color: #fff;
   padding: 16px 23px;
   border: none;
-  border-radius: 5px;
+  border-radius: 4px;
 }
 .assist-block .form-right {
   padding-top: 70px;
