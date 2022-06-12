@@ -10,7 +10,7 @@ header nav ul {
   display: flex;
 }
 header nav ul li {
-  margin-left: 52px;
+  margin-left: 53px;
 }
 header nav ul li:hover a {
   border-bottom: 2px dashed;
